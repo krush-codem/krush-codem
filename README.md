@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Harekrushna Behera 👋
 
 ### Software Developer | Full-Stack Enthusiast | Problem Solver
 
@@ -38,7 +38,7 @@ I am a detail-oriented Software Developer currently pursuing my degree (Class of
 
 I'm an active competitive programmer, constantly refining my logic through daily challenges.
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Recursive)
+![LeetCode Stats](https://leetcard.jacoblin.cool/haredaredevil?theme=dark&font=Recursive)
 
 ---
 
