@@ -47,4 +47,4 @@ I'm an active competitive programmer, constantly refining my logic through daily
 
 ### 📫 How to reach me:
 * **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/harekrushnabehera121)
-* **Portfolio**: [yourwebsite.com](https://harekrushna-behera-portfolio.vercel.app/)
+* **Portfolio**: [harekrushna.com](https://harekrushna-behera-portfolio.vercel.app/)
