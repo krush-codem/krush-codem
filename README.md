@@ -43,8 +43,8 @@ I'm an active competitive programmer, constantly refining my logic through daily
 ---
 
 ### ⚡ GitHub Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krush-codem&theme=tokyonight)
 
 ### 📫 How to reach me:
-* **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
+* **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/harekrushnabehera121)
+* **Portfolio**: [yourwebsite.com](https://harekrushna-behera-portfolio.vercel.app/)
